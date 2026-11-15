@@ -1,0 +1,7 @@
+.box {
+    width: 400px;
+    height: 400px;
+    border: 1px solid brown;
+    background-color: rgb(180, 37, 147);
+    overflow: scroll;
+}
